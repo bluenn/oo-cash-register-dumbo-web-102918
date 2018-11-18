@@ -1,6 +1,5 @@
 
-def CashRegister
-  class CashRegister
+class CashRegister
 end
  #cash_register = CashRegister.new
  #cash_register_with_discount = CashRegister.new(20)
